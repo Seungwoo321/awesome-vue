@@ -40,6 +40,7 @@ head:
 Tables / data grids
 
 - [vue-cheetah-grid](https://github.com/future-architect/cheetah-grid) - A high-performance grid engine that work on a canvas for Vue.js.
+- [Vue3 Pivottable](https://github.com/vue-pivottable/vue3-pivottable) - A Vue 3 port of the jQuery-based PivotTable.js library.
 
 ## Notification
 
